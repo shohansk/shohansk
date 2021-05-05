@@ -8,7 +8,7 @@
 
 - 🔭 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **python and machine learing**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shohansk111@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I love to sleep very much**
 
 ## 🚀 Languages and Tools:
 
@@ -45,15 +45,15 @@
 
 <p align="center">
     <a href="https://github.com/shohansk/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shohansk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shohan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shohansk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/shohansk/github-readme-stats"><img alt="shohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shohansk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shohansk/github-readme-stats"><img alt="shohan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohansk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shohansk/github-readme-activity-graph"><img alt="shohansk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shohansk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -77,8 +77,8 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="https://github.com/shohansk/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shohansk">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shohansk?tab=followers"><img src="https://img.shields.io/github/followers/shohansk?label=Followers&style=social" alt="GitHub Badge"></a>
 
