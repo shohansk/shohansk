@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shohan-s-site.web.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shohansk.netlify.app//)**
 
 - 📫 How to reach me **shohansk111@gmail.com**
 
