@@ -8,7 +8,7 @@
 
 - 🔭 
 
-- 🌱 I’m currently learning **Data Engineering And LLM**
+- 🌱 I’m currently exploring  **Fast API || Data Engineering || LLM**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
